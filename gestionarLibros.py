@@ -347,4 +347,4 @@ def eliminarLibro():
         elif valEliminacion.upper() == "N":
             print("Proceso cancelado.")
             return
-eliminarLibro()
+
